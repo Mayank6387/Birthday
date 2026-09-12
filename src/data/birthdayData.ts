@@ -1,114 +1,114 @@
 const PHOTOS = [
   {
-    url: "/public/pics/1.jpg",
+    url: "/pics/1.jpg",
     rotation: -3.5,
   },
   {
-    url: "/public/pics/4.jpg",
+    url: "/pics/4.jpg",
     rotation: 2.2,
   },
   {
-    url: "/public/pics/7.jpg",
+    url: "/pics/7.jpg",
     rotation: -1.8,
   },
   {
-    url: "/public/pics/95.png",
+    url: "/pics/95.png",
     rotation: 3,
   },
   {
-    url: "/public/pics/3.jpg",
+    url: "/pics/3.jpg",
     rotation: -2.4,
   },
   {
-    url: "/public/pics/20.jpeg",
+    url: "/pics/20.jpeg",
     rotation: 1.8,
   },
   {
-    url: "/public/pics/90.jpeg",
+    url: "/pics/90.jpeg",
     rotation: -2,
   },
   {
-    url: "/public/pics/8.jpg",
+    url: "/pics/8.jpg",
     rotation: 3.2,
   },
   {
-    url: "/public/pics/New2.jpg",
+    url: "/pics/New2.jpg",
     rotation: -1.2,
   },
   {
-    url: "/public/pics/22.jpeg",
+    url: "/pics/22.jpeg",
     rotation: 2.8,
   },
   {
-    url: "/public/pics/N5.jpeg",
+    url: "/pics/N5.jpeg",
     rotation: -3,
   },
   {
-    url:"/public/pics/28.jpeg",
+    url:"/pics/28.jpeg",
     rotation: 1.5,
   },
    {
-    url:"/public/pics/21.jpeg",
+    url:"/pics/21.jpeg",
     rotation: 1.5,
   },{
-    url:"/public/pics/New5.jpg",
+    url:"/pics/New5.jpg",
     rotation: 1.5,
   },{
-    url:"/public/pics/New6.jpg",
+    url:"/pics/New6.jpg",
     rotation: 1.5,
   },{
-    url:"/public/pics/New9.jpg",
+    url:"/pics/New9.jpg",
     rotation: 1.5,
   },{
-    url:"/public/pics/15.jpg",
+    url:"/pics/15.jpg",
     rotation: 1.5,
   },{
-    url:"/public/pics/New17.jpg",
+    url:"/pics/New17.jpg",
     rotation: 1.5,
   },{
-    url:"/public/pics/New16.jpg",
+    url:"/pics/New16.jpg",
     rotation: 1.5,
   },{
-    url:"/public/pics/New11.jpg",
+    url:"/pics/New11.jpg",
     rotation: 1.5,
   },{
-    url:"/public/pics/11.jpg",
+    url:"/pics/11.jpg",
     rotation: 1.5,
   },{
-    url:"/public/pics/2.jpg",
+    url:"/pics/2.jpg",
     rotation: 1.5,
   },{
-    url:"/public/pics/New15.jpg",
+    url:"/pics/New15.jpg",
     rotation: 1.5,
   },{
-    url:"/public/pics/10.jpg",
+    url:"/pics/10.jpg",
     rotation: 1.5,
   },{
-    url:"/public/pics/New8.jpg",
+    url:"/pics/New8.jpg",
     rotation: 1.5,
   },{
-    url:"/public/pics/Neew4.jpg",
+    url:"/pics/Neew4.jpg",
     rotation: 1.5,
   },{
-    url:"/public/pics/9.jpg",
+    url:"/pics/9.jpg",
     rotation: 1.5,
   },{
-    url:"/public/pics/10.jpg",
+    url:"/pics/10.jpg",
     rotation: 1.5,
   },{
-    url:"/public/pics/2.jpg",
+    url:"/pics/2.jpg",
     rotation: 1.5,
   },{
-    url:"/public/pics/N9.jpeg",
+    url:"/pics/N9.jpeg",
     rotation: 1.5,
   },{
-    url:"/public/pics/14.jpg",
+    url:"/pics/14.jpg",
     rotation: 1.5,
   },{
-    url:"/public/pics/New7.jpg",
+    url:"/pics/New7.jpg",
     rotation: 1.5,
   },{
-    url:"/public/pics/10.jpg",
+    url:"/pics/10.jpg",
     rotation: 1.5,
   }
 ];
